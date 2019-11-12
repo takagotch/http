@@ -1,6 +1,6 @@
 ### http
 ---
-Hypertext Transfer Protocol RFC7230 RFC7235
+Hypertext Transfer Protocol RFC7230 RFC7235 RFC2616 RFC7540
 
 .rb
 https://github.com/httprb/http
